@@ -12,3 +12,5 @@ https://docs.cypress.io/guides/continuous-integration/github-actions
 
 
 https://github.com/cypress-io/cypress-example-kitchensink
+
+Use o .github/workflows/main.yml para refazer a pipeline caso seja necessário. E se for necessário, não esqueça de configurar alterar também no file package.json
