@@ -1,0 +1,15 @@
+{
+  "name": "ci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "cypress open"
+  },
+  "keywords": [],
+  "author": "AdilsonJoaquim",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.11.0"
+      }
+}
